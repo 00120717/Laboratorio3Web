@@ -1,0 +1,169 @@
+input#b1{
+font-size:12px;
+border-radius:5px;
+padding:3px;
+}
+
+input#b2{
+font-size:8px;
+border-radius:5px;
+padding:3px;
+}
+
+input#b3{
+font-size:16px;
+border-radius:5px;
+padding:3px;
+}
+
+input#esmeralda{
+border-radius:5px;
+background-color:#50c878;
+color:white;
+padding:3px;
+border-color:#50c878;
+}
+
+input#cielo{
+border-radius:5px;
+background-color:#39b3e9;
+color:white;
+padding:3px;
+border-color:#39b3e9;
+}
+
+input#amatista{
+border-radius:5px;
+background-color:#e0b0ff;
+color:white;
+padding:3px;
+border-color:#e0b0ff;
+}
+
+input#asfalto{
+border-radius:5px;
+background-color:#474b4e;
+color:white;
+padding:3px;
+border-color:#474b4e;
+}
+
+input#topazio{
+border-radius:5px;
+background-color:#db7d2e;
+color:white;
+padding:3px;
+border-color:#db7d2e;
+}
+
+input#rubi{
+border-radius:5px;
+background-color:#e0115f;
+color:lightgrey;
+padding:3px;
+border-color:#e0115f;
+}
+
+
+input#simple{
+border-radius:5px;
+background-color:white;
+color:grey;
+border:color grey;
+padding:3px;
+border-width: 1px;
+}
+
+
+input#b-esmeralda{
+border-radius:5px;
+background-color:white;
+color:#50c878;
+border-color: #50c878;
+padding:3px;
+border-width: 1px;
+}
+
+input#b-cielo{
+border-radius:5px;
+background-color:white;
+color:#39b3e9;
+border-color:  #39b3e9;
+padding:3px;
+border-width: 1px;
+}
+
+input#b-amatista{
+border-radius:5px;
+background-color:white;
+color:#e0b0ff;
+border-color: #e0b0ff;
+padding:3px;
+border-width: 1px;
+}
+
+input#b-asfalto{
+border-radius:5px;
+background-color:white;
+color:#474b4e;
+border-color: #474b4e;
+padding:3px;
+border-width: 1px;
+}
+
+input#b-topazio{
+border-radius:5px;
+background-color:white;
+color:#db7d2e;
+border-color: #db7d2e;
+padding:3px;
+border-width: 1px;
+}
+
+input#b-rubi{
+border-radius:5px;
+background-color:white;
+color:#e0115f;
+border-color: #e0115f;
+padding:3px;
+border-width: 1px;
+}
+
+
+input#largoasfalto{
+border-radius:5px;
+background-color:#474b4e;
+color:white;
+padding:3px;
+font-size:16px;
+}
+
+input#bordecielo{
+font-size:12px;
+border-radius:5px;
+padding:3px;
+background-color:white;
+color:#39b3e9;
+border-color: #39b3e9;
+border-width: 1px;
+}
+
+input#pequenaesme{
+font-size:8px;
+border-radius:5px;
+padding:3px;
+background-color:#50c878;
+color:white;
+
+}
+
+input#granborderubi{
+font-size:16px;
+border-radius:5px;
+padding:3px;
+background-color:white;
+color:#e0115f;
+border-color: #e0115f;
+border-width: 1px;
+}
+
